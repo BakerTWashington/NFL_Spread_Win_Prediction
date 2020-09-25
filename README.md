@@ -6,5 +6,4 @@ The test data RMSE for the model predicting spread was 11.3 points, the test dat
 
 These models were created using year-end per game statistics, so the accuracy should improve as more data is available in the season. An alternate dataset was previously created based on boxscores of the past five games, but the models did not perform nearly as well on this dataset, so the current methodology was used.
 
-The performance of these models in predicting results of the 2020 season is being tracked and is publicly viewable using the link below to the Google Sheets document.
-https://docs.google.com/spreadsheets/d/1oKzjGUAT-V9WGUYUuwgZZI4dKZicwhVgaDZ3TPhJdW4/edit?usp=sharing
+The performance of these models in predicting results of the 2020 season is being tracked and is publicly viewable using the following link to the Google Sheets document: https://docs.google.com/spreadsheets/d/1oKzjGUAT-V9WGUYUuwgZZI4dKZicwhVgaDZ3TPhJdW4/edit?usp=sharing
