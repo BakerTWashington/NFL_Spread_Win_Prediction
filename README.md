@@ -1,6 +1,6 @@
-# NFL_Spread_Win_Prediction
+# NFL Spread Win Prediction
 
-This repository provides a Jupyter Notebook that creates models for threem aspects of NFL prediction: spread, whether the away or home team wins, and whether the away or home team beats the spread. Provided in NFL_Model_Creation.ipynb is the notebook containing the process for generating these models and the methods of predicting new games. Provided in NFL_Model_Prediction is a notebook useful in making new predictions. The necessary components are loaded from the creation notebook. 
+This repository provides a Jupyter Notebook that creates models for threem aspects of NFL prediction: spread, whether the away or home team wins, and whether the away or home team beats the spread. Provided in `NFL_Model_Creation.ipynb` is the notebook containing the process for generating these models and the methods of predicting new games. Provided in NFL_Model_Prediction is a notebook useful in making new predictions. The necessary components are loaded from the creation notebook. 
 
 The test data RMSE for the model predicting spread was 11.3 points, the test data accuracy for the model predicting whether a team will win was 75%, and the test data accuracy for the model predicting whether the away team will beat the spread was 64%.
 
